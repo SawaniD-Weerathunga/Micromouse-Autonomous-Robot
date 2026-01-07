@@ -156,10 +156,10 @@ IR Sensors:
 
 This project was made possible through the combined efforts, dedication, and problem-solving mindset of an amazing team:
 
-**Ayani Atapattu**
-**Tharini Jayarathna**
-**Chanya Shehani**
-**Sawani Weerathunga**
+***Ayani Atapattu**
+***Tharini Jayarathna**
+***Chanya Shehani**
+***Sawani Weerathunga**
 
 Every test run, bug fix, and improvement was a shared learning experience 🚀
 
